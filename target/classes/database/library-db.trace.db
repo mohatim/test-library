@@ -1,0 +1,3 @@
+2023-06-04 13:40:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CATEGORY" not found (this database is empty); SQL statement:
+INSERT INTO category values ('INF','Informatique') [42104-214]

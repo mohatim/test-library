@@ -1,0 +1,14 @@
+INSERT INTO category values ('INF','Informatique');
+INSERT INTO category values ('MAT','Mathématiques, Physiques et Chimie');
+INSERT INTO category values ('ALB','Albums');
+INSERT INTO category values ('BDE','Bandes dessinées');
+INSERT INTO category values ('CON','Contes');
+INSERT INTO category values ('POE','Poésie');
+INSERT INTO category values ('ROM','Romans et récits illustrés');
+INSERT INTO category values ('THE','Théâtre');
+INSERT INTO category values ('PHI','Philosophie');
+INSERT INTO category values ('SCI','Sciences de la vie et de la terre');
+INSERT INTO category values ('POL','Politique');
+INSERT INTO category values ('SOC','Sociologie');
+INSERT INTO category values ('ECO','Economie et Finance');
+INSERT INTO category values ('JOU','Journal, Magazine');
